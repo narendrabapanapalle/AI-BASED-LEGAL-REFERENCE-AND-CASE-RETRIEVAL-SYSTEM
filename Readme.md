@@ -145,8 +145,8 @@ Pillow
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-legal-reference-system.git
-cd ai-legal-reference-system
+git clone https://github.com/narendrabapanapalle/AI-BASED-LEGAL-REFERENCE-AND-CASE-RETRIEVAL-SYSTEM.git
+cd AI-BASED-LEGAL-REFERENCE-AND-CASE-RETRIEVAL-SYSTEM
 ```
 
 2. **Create a virtual environment**
@@ -171,14 +171,10 @@ Create a `.env` file in the root directory:
 OPENAI_API_KEY=your_openai_api_key_here
 PINECONE_API_KEY=your_pinecone_api_key_here
 PINECONE_ENVIRONMENT=your_pinecone_environment
+PINECONE_INDEX_NAME=legal-cases
 ```
 
-5. **Initialize the database**
-```bash
-python init_db.py
-```
-
-6. **Run the application**
+5. **Run the application**
 ```bash
 streamlit run app.py
 ```
@@ -221,15 +217,19 @@ The application will open in your browser at `http://localhost:8501`
 
 ## 📸 Screenshots
 
+> **Note**: Add your screenshots to the `/screenshots/` folder in your repository and they will display below.
+
 ### 🔐 Authentication Pages
 
 #### Login Page
+![Login Page](screenshots/01-login.png)
 - Clean, professional interface with legal theme
 - Secure authentication system
 - Password visibility toggle
 - Quick access to registration
 
 #### Registration Page
+![Registration Page](screenshots/02-register.png)
 - User-friendly registration form
 - Profile picture upload (optional)
 - Password confirmation
@@ -238,12 +238,17 @@ The application will open in your browser at `http://localhost:8501`
 ### 💬 Dashboard
 
 #### Main Chat Interface
+![Dashboard](screenshots/03-dashboard.png)
 - Conversational AI assistant (LegalBot)
 - Real-time response generation
 - Clean message display with user/bot differentiation
 - Persistent chat history
 
 #### Legal Q&A Examples
+![Chat Interface](screenshots/04-chat-interface.png)
+
+**Example Queries and Responses:**
+
 - **Question**: "What is Article 15 of the Indian Constitution?"
   - **Response**: Detailed explanation of Article 15, covering prohibition of discrimination on grounds of religion, race, caste, sex, or place of birth
   
@@ -253,11 +258,13 @@ The application will open in your browser at `http://localhost:8501`
 ### 👤 Profile Section
 
 #### User Profile View
+![User Profile](screenshots/05-profile.png)
 - Display of user information (name, email, member since)
 - Profile picture display
 - Back navigation to dashboard
 
 #### Profile Update
+![Profile Update](screenshots/06-profile-update.png)
 - Editable first name and last name
 - Email display (non-editable)
 - Password change option
@@ -299,29 +306,27 @@ The application will open in your browser at `http://localhost:8501`
 ## 📊 Project Structure
 
 ```
-ai-legal-reference-system/
+AI-BASED-LEGAL-REFERENCE-AND-CASE-RETRIEVAL-SYSTEM/
 │
 ├── app.py                      # Main Streamlit application
-├── init_db.py                  # Database initialization
 ├── requirements.txt            # Python dependencies
-├── .env                        # Environment variables (not in repo)
+├── .env.example               # Environment variables template
 ├── .gitignore                 # Git ignore file
+├── README.md                  # Project documentation
 │
-├── database/
-│   └── legal_system.db        # SQLite database
+├── screenshots/               # Application screenshots (for README)
+│   ├── 01-login.png
+│   ├── 02-register.png
+│   ├── 03-dashboard.png
+│   ├── 04-chat-interface.png
+│   ├── 05-profile.png
+│   └── 06-profile-update.png
 │
-├── uploads/
-│   └── profile_pictures/      # User profile images
+├── data/                      # Legal documents and data
+│   └── legal_database.db      # SQLite database
 │
-├── utils/
-│   ├── auth.py               # Authentication utilities
-│   ├── database.py           # Database operations
-│   └── rag_pipeline.py       # RAG implementation
-│
-├── assets/
-│   └── images/               # Application images
-│
-└── README.md                 # Project documentation
+└── uploads/                   # User uploaded files
+    └── profile_pictures/      # User profile images
 ```
 
 ---
@@ -346,10 +351,10 @@ This project was developed during my internship at Infosys (August 2025 - Octobe
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Narendra Bapanapalle**
+- LinkedIn: [Narendra Bapanapalle](https://linkedin.com/in/narendra-bapanapalle)
+- GitHub: [@narendrabapanapalle](https://github.com/narendrabapanapalle)
+- Email: Contact via GitHub
 
 ---
 
