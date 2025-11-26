@@ -187,13 +187,15 @@ User Input → Streamlit UI → Query Processing
 
 ---
 
-## 📚 Legal Database Coverage
-- ✅ **Indian Constitution** - Complete articles and amendments
-- ✅ **Fundamental Rights** - Articles 12-35
-- ✅ **Directive Principles** - Articles 36-51
-- ✅ **Legal Procedures** - Criminal and Civil law procedures
-- ✅ **Case Precedents** - Landmark judgments and citations
-
+##📚 Legal Database Coverage
+Indian Acts & Laws:
+Constitution of India | Indian Penal Code | Criminal Procedure Code (1973) | Civil Procedure Code (1908)
+Contract Act (1872) | Evidence Act (1872) | Companies Act (2013) | Consumer Protection Act (2019)
+Information Technology Act (2000) | Hindu Marriage Act | Special Marriage Act (1954)
+Negotiable Instruments Act (1881) | Right to Information Act (2005) | Juvenile Justice Act
+Case Laws:
+Maneka Gandhi vs. Union of India | Navtej Singh Johar vs. Union of India | Shreya Singhal vs. U.O.I
+Kesavananda Bharati vs. State of Kerala | Other landmark judgments and precedents
 ----
 
 ---
