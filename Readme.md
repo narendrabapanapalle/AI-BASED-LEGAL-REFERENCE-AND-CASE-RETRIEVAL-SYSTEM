@@ -49,58 +49,54 @@ Developed during my **internship at Infosys (August 2025 - October 2025)** using
 
 ## 🖼️ Screenshots of the Project
 
-### 📌 Login Page
-![Login Page](https://github.com/user-attachments/assets/645063ab-56af-4159-9689-da67af079ca3)
-*Secure authentication portal for legal professionals*
-<br><br>
-
----
 ### 📌 Registration Page
-![Registration Page](https://github.com/user-attachments/assets/registration-placeholder)
+![WhatsApp Image 2025-10-22 at 20 49 39_b2a86a85](https://github.com/user-attachments/assets/4b613297-d47a-41ea-af73-76d4f711836c)
 *Create new account with profile picture upload*
 <br><br>
 
 ---
 ### 📌 Main Dashboard
-![Dashboard](https://github.com/user-attachments/assets/dashboard-placeholder)
+![WhatsApp Image 2025-10-22 at 20 54 50_0f68a5bb](https://github.com/user-attachments/assets/ddea2b53-96ba-43ee-aa0e-b470e0512038)
+
 *LegalBot main interface - Your AI Legal Research Assistant*
 <br><br>
 
 ---
 ### 📌 Chat Interface with Sidebar
-![Chat Interface](https://github.com/user-attachments/assets/chat-placeholder)
+![WhatsApp Image 2025-10-22 at 20 57 54_940ff7c1](https://github.com/user-attachments/assets/46c1f200-d3a7-4acf-b81d-ebd53c97d61f)
+
 *User profile sidebar with chat management options*
 <br><br>
 
 ---
 ### 📌 Legal Query Response
-![Query Results](https://github.com/user-attachments/assets/query-placeholder)
+![WhatsApp Image 2025-10-22 at 22 05 22_c776e6ad](https://github.com/user-attachments/assets/1ae95294-cf3a-42fb-98a0-af3c351a5131)
+
 *AI-powered answers with detailed legal explanations - Example: Article 15 of Indian Constitution*
 <br><br>
 
 ---
 ### 📌 Multi-Turn Conversation
-![Conversation Flow](https://github.com/user-attachments/assets/conversation-placeholder)
+![WhatsApp Image 2025-10-22 at 22 44 57_dc11bc19](https://github.com/user-attachments/assets/15482099-e213-48d7-985e-922116d3a99e)
+
 *Contextual follow-up questions and comprehensive legal research*
 <br><br>
 
 ---
 ### 📌 User Profile Page
-![User Profile](https://github.com/user-attachments/assets/profile-placeholder)
+![WhatsApp Image 2025-10-22 at 22 01 33_94af8571](https://github.com/user-attachments/assets/cffa1d9e-acc1-4f82-a3f9-866e49367d87)
+
 *View and manage profile information*
 <br><br>
 
 ---
 ### 📌 Update Profile Page
-![Update Profile](https://github.com/user-attachments/assets/update-profile-placeholder)
+![WhatsApp Image 2025-10-22 at 22 02 50_b53243e5](https://github.com/user-attachments/assets/75f3f8a4-d41f-4a11-bb51-f2b8f311d35e)
+
 *Update personal information, profile picture, and password*
 <br><br>
 
 ---
-### 📌 About Section
-![About Section](https://github.com/user-attachments/assets/about-placeholder)
-*System information and capabilities overview*
-
 <br>
 
 ## 🎓 Internship Highlights
