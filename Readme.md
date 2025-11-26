@@ -10,7 +10,10 @@ Developed during my **internship at Infosys (August 2025 - October 2025)** using
 
 <br>
 
-![Login Page](https://github.com/user-attachments/assets/645063ab-56af-4159-9689-da67af079ca3)
+
+### 📌 Login Page
+![WhatsApp Image 2025-10-22 at 20 48 48_2805e3d5](https://github.com/user-attachments/assets/2de0d499-9517-49c8-a869-e0f486737257)
+
 
 ---
 
