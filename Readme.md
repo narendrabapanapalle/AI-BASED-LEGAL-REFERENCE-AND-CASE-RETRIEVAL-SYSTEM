@@ -183,7 +183,7 @@ User Input → Streamlit UI → Query Processing
 - **Password Encryption:** Secure password hashing for user accounts
 - **Session Management:** Protected user sessions with authentication tokens
 - **Data Privacy:** User queries and chat histories stored securely in SQLite
-- **Input Validation:** Sanitized inputs to prevent SQL injection and security vulnerabilities
+
 
 ---
 
